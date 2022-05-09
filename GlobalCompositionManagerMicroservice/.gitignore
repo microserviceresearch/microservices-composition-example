@@ -1,0 +1,5 @@
+/.gradle/
+/bin/
+/build/
+/compositions/
+.DS_Store
